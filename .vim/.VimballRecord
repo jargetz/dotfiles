@@ -1,0 +1,1 @@
+download_script.php?src_id=18075: call delete('/home/jargetz/.vim/doc/supertab.txt')|call delete('/home/jargetz/.vim/plugin/supertab.vim')
